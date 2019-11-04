@@ -1,0 +1,31 @@
+{
+  "name": "test-markup",
+  "version": "1.0.0",
+  "description": "Test markup features demonstration",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daymon4/test-markup.git"
+  },
+  "author": "Daymon4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daymon4/test-markup/issues"
+  },
+  "homepage": "https://github.com/Daymon4/test-markup#readme",
+  "dependencies": {
+    "gulp-cli": "2.2.0",
+    "gulp": "4.0.2",
+    "browser-sync": "2.26.7",
+    "gulp-less": "4.0.1",
+    "gulp-concat": "2.6.1",
+    "bootstrap": "4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "1.16.0",
+    "bootstrap-less": "3.3.8"
+  }
+}
